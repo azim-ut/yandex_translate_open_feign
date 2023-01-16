@@ -1,0 +1,7 @@
+yandex:
+  key: AQVN093deLI3634DVZ-GPvynC-TC4eePg_0L8IsB
+
+
+logging:
+  level:
+    com.example.yt: DEBUG
